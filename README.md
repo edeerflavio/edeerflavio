@@ -1,24 +1,24 @@
-# Flavio Eder
+# Flávio Eder
 
-Medico especialista em Medicina de Emergencia, professor universitario e CEO da Primedical Cursos e Mentoria para Medicos.
+Médico especialista em Medicina de Emergência, professor universitário e CEO da Primedical Cursos e Mentoria para Médicos.
 
-Entusiasta na area de Analise e Desenvolvimento de Sistemas, com interesse em aplicar tecnologia, educacao medica e inteligencia artificial para melhorar fluxos clinicos, treinamento profissional e tomada de decisao em saude.
+Entusiasta na área de Análise e Desenvolvimento de Sistemas, com interesse em aplicar tecnologia, educação médica e inteligência artificial para melhorar fluxos clínicos, treinamento profissional e tomada de decisão em saúde.
 
-## Atuacao
+## Atuação
 
-- Medicina de Emergencia
-- Ensino medico e mentoria para medicos
-- Educacao continuada em saude
-- Desenvolvimento de solucoes digitais para pratica clinica
-- Analise e desenvolvimento de sistemas
+- Medicina de Emergência
+- Ensino médico e mentoria para médicos
+- Educação continuada em saúde
+- Desenvolvimento de soluções digitais para prática clínica
+- Análise e Desenvolvimento de Sistemas
 
 ## Projetos e Interesses
 
-- Simuladores e ferramentas para educacao medica
-- Aplicacoes voltadas a suporte clinico e organizacao de escalas
-- Inteligencia artificial aplicada a saude
-- Produtos digitais para medicos e equipes assistenciais
+- Simuladores e ferramentas para educação médica
+- Aplicações voltadas a suporte clínico e organização de escalas
+- Inteligência artificial aplicada à saúde
+- Produtos digitais para médicos e equipes assistenciais
 
 ## Primedical Cursos e Mentoria
 
-Formacao, mentoria e desenvolvimento profissional para medicos, com foco em excelencia pratica, raciocinio clinico e atuacao segura em cenarios de urgencia e emergencia.
+Formação, mentoria e desenvolvimento profissional para médicos, com foco em excelência prática, raciocínio clínico e atuação segura em cenários de urgência e emergência.
